@@ -1,0 +1,7 @@
+com\ProjectSena\StockWise\services\PersonServiceImplement.class
+com\ProjectSena\StockWise\StockWiseApplication.class
+com\ProjectSena\StockWise\ServletInitializer.class
+com\ProjectSena\StockWise\model\Person.class
+com\ProjectSena\StockWise\services\PersonService.class
+com\ProjectSena\StockWise\controller\PersonController.class
+com\ProjectSena\StockWise\repository\PersonRepository.class
